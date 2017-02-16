@@ -12,6 +12,8 @@
 		BDE1C6BA1C2DE907006DF8E6 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BDE1C6B81C2DE907006DF8E6 /* Main.storyboard */; };
 		BDE1C6BC1C2DE907006DF8E6 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BDE1C6BB1C2DE907006DF8E6 /* Assets.xcassets */; };
 		BDE1C6BF1C2DE907006DF8E6 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BDE1C6BD1C2DE907006DF8E6 /* LaunchScreen.storyboard */; };
+		BDE1C6C71C2DEE02006DF8E6 /* bach-bwv924-breemer.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = BDE1C6C61C2DEE02006DF8E6 /* bach-bwv924-breemer.mp3 */; };
+		BDE1C6C91C2DEF51006DF8E6 /* bach.jpg in Resources */ = {isa = PBXBuildFile; fileRef = BDE1C6C81C2DEF51006DF8E6 /* bach.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +24,8 @@
 		BDE1C6BB1C2DE907006DF8E6 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		BDE1C6BE1C2DE907006DF8E6 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		BDE1C6C01C2DE907006DF8E6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		BDE1C6C61C2DEE02006DF8E6 /* bach-bwv924-breemer.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "bach-bwv924-breemer.mp3"; sourceTree = "<group>"; };
+		BDE1C6C81C2DEF51006DF8E6 /* bach.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = bach.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +61,8 @@
 				BDE1C6B41C2DE907006DF8E6 /* AppDelegate.swift */,
 				BDE1C6B61C2DE907006DF8E6 /* ViewController.swift */,
 				BDE1C6B81C2DE907006DF8E6 /* Main.storyboard */,
+				BDE1C6C81C2DEF51006DF8E6 /* bach.jpg */,
+				BDE1C6C61C2DEE02006DF8E6 /* bach-bwv924-breemer.mp3 */,
 				BDE1C6BB1C2DE907006DF8E6 /* Assets.xcassets */,
 				BDE1C6BD1C2DE907006DF8E6 /* LaunchScreen.storyboard */,
 				BDE1C6C01C2DE907006DF8E6 /* Info.plist */,
@@ -123,6 +129,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				BDE1C6BF1C2DE907006DF8E6 /* LaunchScreen.storyboard in Resources */,
+				BDE1C6C91C2DEF51006DF8E6 /* bach.jpg in Resources */,
+				BDE1C6C71C2DEE02006DF8E6 /* bach-bwv924-breemer.mp3 in Resources */,
 				BDE1C6BC1C2DE907006DF8E6 /* Assets.xcassets in Resources */,
 				BDE1C6BA1C2DE907006DF8E6 /* Main.storyboard in Resources */,
 			);
